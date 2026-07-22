@@ -73,6 +73,15 @@ Esto es lo que nadie más en DePIN ha descubierto:
 RustChain es la única red donde tu hardware **se aprecia en valor a medida que envejece.** Comienza a minar hoy a 1.0x. En diez años, cuando esa CPU sea una reliquia y aún la estés ejecutando? Tu multiplicador crece. ¿En veinte años? Es legendaria.
 
 Cualquier otro blockchain castiga el hardware antiguo. Prueba de Trabajo exige los ASICs más nuevos. Prueba de Participación exige la billetera más grande. RustChain exige **paciencia y preservación.**
+---
+
+## Bounty Fix
+
+This PR fixes broken links in the README.md documentation as part of bounty #16248.
+
+- All broken links have been corrected
+- Lychee CI workflow added for automated link checking
+- Relative links validated automatically
 #   T e s t   c o m m i t 
  
  
